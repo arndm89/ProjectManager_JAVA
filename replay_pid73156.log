@@ -1,0 +1,11 @@
+JvmtiExport can_access_local_variables 1
+JvmtiExport can_hotswap_or_post_breakpoint 1
+JvmtiExport can_post_on_exceptions 1
+# 239 ciObject found
+instanceKlass org/apache/catalina/webresources/Cache$1
+instanceKlass java/util/concurrent/CopyOnWriteArrayList$1
+instanceKlass com/mysql/jdbc/ProfilerEventHandlerFactory
+instanceKlass com/zaxxer/hikari/pool/HikariPool$$Lambda$638
+instanceKlass org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery$$Lambda$637
+instanceKlass org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery$$Lambda$636
+instanceKlass com/cts/tm/service/impl/UserServiceImpl$$Lambda$635
